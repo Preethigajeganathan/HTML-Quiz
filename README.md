@@ -7,7 +7,7 @@ It allows users to answer questions, get instant feedback, and see their final s
 
 ## 🚀 Live Demo  
 
-🔗 *(Add your GitHub Pages link here if deployed)*
+🔗 *https://preethigajeganathan.github.io/HTML-Quiz/*
 
 ---
 
